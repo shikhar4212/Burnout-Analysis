@@ -1,0 +1,1 @@
+This is an Econometrics Project that our team, Aman Kalra, Pruthvi Patel, Shikhar Panthari, Tatva Desai, Anshuman Pati worked on. The goal was to To examine the extent to which task stress and time pressure predict Burnout(Job Pressure) among employees using a multiple linear regression model.
